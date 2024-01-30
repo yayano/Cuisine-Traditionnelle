@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "NOURRITURE DE QUALITÉ",
+          "description": "Découvrez l'excellence à chaque bouchée avec nos ingrédients soigneusement sélectionnés, une garantie de qualité qui définit notre cuisine."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "GOÛT EXCEPTIONNEL",
+          "description": "Plongez dans une explosion de saveurs extraordinaires, chaque plat est une symphonie délicieuse pour éveiller vos papilles."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "LIVRAISON RAPIDE",
+          "description": "Profitez de la saveur sans attendre – notre engagement envers une livraison rapide vous assure des repas délicieux directement à votre porte, à chaque fois."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./images/t3am++.png",
+          "title": "COUSCOUS",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./images/Tajine-Zitoune.png",
+          "title": "TAJINE ZITOUNE",
+          "category": "Dinner"
+        },
+        {
+          "id": 3,
+          "image": "./images/chakhchoukha.png",
+          "title": "CHAKHCHOUKHA",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./images/chtithadjedj.png",
+          "title": "CHTITHA DJEDJ",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./images/brik.png",
+          "title": "BRIK",
+          "category": "Lunch"
+        },
+        {
+          "id": 6,
+          "image": "./images/Rechta+.png",
+          "title": "RECHTA",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./images/loubia.png",
+          "title": "LOUBIA",
+          "category": "Dinner"
+        },
+        {
+          "id": 8,
+          "image": "./images/chtithalham.png",
+          "title": "CHTITHA LHAM",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.png",
+          "name": "JOHNATHAN TYLER",
+          "designation": "Founder & Head Chef"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "WADE WARREN",
+          "designation": "Sous Chef"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_3.png",
+          "name": "JHON DOE",
+          "designation": "Fast Food Chef"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_4.png",
+          "name": "ALEX COAL",
+          "designation": "Senior Chef"
+        }
+      ],
+      "testimonials": [
+        {
+          "id": 1,
+          "image": "./review1.png",
+          "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+          "rating": 4,
+          "userName": "Jane Cooper"
+        },
+        {
+          "id": 2,
+          "image": "./review2.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 4.5,
+          "userName": "Esther Howard"
+        },
+        {
+          "id": 3,
+          "image": "./review3.png",
+          "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+          "rating": 5,
+          "userName": "Guy Hawkins"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "ACCUEIL",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "À PROPOS",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "ÉQUIPE",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RÉSERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
