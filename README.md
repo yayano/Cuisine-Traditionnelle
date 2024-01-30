@@ -1,6 +1,6 @@
 # Cuisine Traditionnelle
 
-![Cuisine Traditionnelle](screenshot.png)
+![Cuisine Traditionnelle](/frontend/public/screenshot.png)
 
 ## About
 
