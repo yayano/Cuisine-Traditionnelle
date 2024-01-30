@@ -159,11 +159,6 @@
           "link": "qualities"
         },
         {
-          "id": 4,
-          "title": "ÉQUIPE",
-          "link": "team"
-        },
-        {
           "id": 5,
           "title": "RÉSERVATION",
           "link": "reservation"
