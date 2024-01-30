@@ -4,7 +4,9 @@ import { Toaster } from "react-hot-toast";
 import Home from "./Pages/Home";
 import NotFound from "./Pages/NotFound";
 import Success from "./Pages/Success";
+import { inject } from "@vercel/analytics";
 const App = () => {
+  inject();
   return (
     <Router>
       <Routes>
